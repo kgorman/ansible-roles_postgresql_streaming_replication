@@ -1,0 +1,2 @@
+# ansible-roles_postgresql_streaming_replication
+Role for PostgreSQL streaming replication configuration/tools
